@@ -23,6 +23,7 @@ dependencies:
 
 default-extensions:
 - DataKinds
+- TypeOperators
 
 library:
   source-dirs: src
